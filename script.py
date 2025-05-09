@@ -1,1 +1,1 @@
-print("Salut, GitHub Actions extins!")
+print("Salut, GitHub Actions extins test!")
